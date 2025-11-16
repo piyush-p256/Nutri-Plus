@@ -19,7 +19,7 @@ export const Footer = () => {
               </span>
             </Link>
             <p className="text-muted-foreground text-sm max-w-md mb-4">
-              Exploring ideas, sharing stories, and inspiring minds. Join our community of writers and readers passionate about technology, creativity, and innovation.
+              Discovering nutrition, sharing wellness, and inspiring healthier choices every day.
             </p>
             <div className="flex space-x-3">
               <a
