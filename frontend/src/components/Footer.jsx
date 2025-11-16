@@ -12,7 +12,7 @@ export const Footer = () => {
           <div className="col-span-1 md:col-span-2">
             <Link to="/" className="flex items-center space-x-2 mb-4">
               <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary to-secondary flex items-center justify-center shadow-md">
-                <span className="text-white font-bold text-xl">H</span>
+                <span className="text-white font-bold text-xl">N</span>
               </div>
               <span className="text-xl font-bold font-serif gradient-text">
                 Nutri Plus
