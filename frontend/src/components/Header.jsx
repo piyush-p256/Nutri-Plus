@@ -28,7 +28,7 @@ export const Header = ({ theme, toggleTheme }) => {
           {/* Logo */}
           <Link to="/" className="flex items-center space-x-2 group">
             <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary to-secondary flex items-center justify-center shadow-md group-hover:shadow-lg transition-shadow">
-              <span className="text-white font-bold text-xl">H</span>
+              <span className="text-white font-bold text-xl">N</span>
             </div>
             <span className="text-xl sm:text-2xl font-bold font-serif gradient-text">
               Nutri Plus
